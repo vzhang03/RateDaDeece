@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="menuItem" type="id" />
+
+    <!--  Recycler View Items  -->
+    <item name="recyclerView" type="id" />
+    <item name="menuItemViewName" type="id" />
+    <item name="menuItemViewStation" type="id" />
+    <item name="clickInfo" type="id" />
+    <item name="clickReview" type="id" />
+
+    <!-- Forum Post Subject Items -->
+    <item name="subjectSpinner" type="id" />
+</resources>
